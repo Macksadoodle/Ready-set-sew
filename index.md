@@ -2,12 +2,8 @@
 
 #Here you will find sewing tutorials, items available for purchase, and more!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Tutorials
+You can find tutorials to help make fun items to have around the house
 
 # Header 1
 ## Header 2
