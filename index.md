@@ -1,6 +1,6 @@
 ## Welcome to Ready, set, sew
 
-Here you will find sewing tutorials, items available for purchase, and more!
+#Here you will find sewing tutorials, items available for purchase, and more!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
