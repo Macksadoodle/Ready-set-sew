@@ -8,3 +8,7 @@ You can find tutorials to help make fun items to have around the house
 
 ## Purchase
 Here you can buy presewn items or perler bead creations. You also can find necklaces, bracelets, and more!
+
+# Contacts
+you can contact me at...
+Email: Macksadoodle@gmail.com
