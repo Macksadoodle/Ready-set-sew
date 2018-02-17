@@ -1,5 +1,5 @@
 ## Welcome to Ready, set, sew
-
+                                                                                      ![needle](needle.png)
 
 Here you will find sewing tutorials, items available for purchase, and more!
 
